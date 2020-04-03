@@ -4,9 +4,10 @@ Android Librarys that simplify development
 
 ##
 **1. UI**
+
   1.1 UI Components
-    * FloatingActionButton[https://github.com/Clans/FloatingActionButton]
-    * SpeedView[https://github.com/anastr/SpeedView]
+    * [FloatingActionButton](https://github.com/Clans/FloatingActionButton)
+    * [SpeedView](https://github.com/anastr/SpeedView)
     
   1.2 Menus
     * Material Drawer (Side Menu)[https://github.com/mikepenz/MaterialDrawer/]
